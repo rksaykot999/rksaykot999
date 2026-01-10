@@ -2,8 +2,6 @@
 
 > Building useful, user-centered web experiences and learning every day.
 
-[![RK's GitHub stats](https://github-readme-stats.vercel.app/api?username=rksaykot999&show_icons=true&theme=radical)](https://github.com/rksaykot999)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rksaykot999&layout=compact&theme=radical)](https://github.com/rksaykot999)
 
 ---
 
