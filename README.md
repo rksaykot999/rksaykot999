@@ -1,387 +1,344 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:020617,20:0f172a,45:1e293b,70:0ea5e9,100:38bdf8&text=RK%20SAYKOT&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL-STACK%20WEB%20DEVELOPER%20•%20COMPUTER%20ENGINEERING%20STUDENT&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,30:0f172a,60:0ea5e9,100:38bdf8&text=RK%20SAYKOT&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20Computer%20Engineering%20Student&descSize=17&descAlignY=62&descColor=e0f2fe"/>
+
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=860&lines=Building+Modern+Production-Ready+Applications;React+%7C+Next.js+%7C+Node.js+%7C+PHP+%7C+Firebase;Focused+on+Scalable+Systems+%26+Clean+UI%2FUX;Future+Remote+Software+Engineer" alt="Typing SVG"/>
+
+<br/>
+<br/>
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Available-22c55e?style=for-the-badge&labelColor=0f172a"/>
+
+</div>
+<br/>
+---
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+## About Me
+
+I am a passionate **Full-Stack Web Developer** and **Computer Engineering Student** from Bangladesh, focused on building scalable, responsive, and production-ready web applications.
+
+I enjoy transforming ideas into modern digital products with clean UI/UX and efficient backend systems. Currently seeking **industrial attachment** opportunities while working toward a career as a **remote software engineer**.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&pause=1000&color=38BDF8&center=true&vCenter=true&width=1100&lines=Building+Modern+Production-Ready+Applications;React+%7C+Next.js+%7C+Node.js+%7C+PHP+Developer;Focused+on+Scalable+Systems+and+Clean+UI%2FUX;Industrial+Attachment+Seeker;Future+Remote+Software+Engineer" />
+<img src="https://img.shields.io/badge/Location-Faridpur%2C%20Bangladesh-0ea5e9?style=flat-square&logo=googlemaps&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Role-Full--Stack%20Web%20Developer-38bdf8?style=flat-square&logo=code&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Currently%20Learning-Next.js%20%26%20TypeScript-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Goal-Remote%20Software%20Engineer-0f172a?style=flat-square&logo=rocket&logoColor=38bdf8"/>
+
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-22c55e?style=flat-square&logo=checkmarx&logoColor=white"/>
+
+</td>
+<td width="42%" align="center" valign="middle">
+
+<img src="https://avatars.githubusercontent.com/u/180281030?v=4" width="200" style="border-radius:16px;" alt="RK Saykot"/>
 
 <br/><br/>
 
-
-</div>
-
----
-
-#  ABOUT ME
-
-<table>
-<tr>
-
-<td width="60%">
-
-###  RK Saykot
-
-Passionate **Full-Stack Web Developer** and **Computer Engineering Student** focused on building scalable, responsive, and production-ready applications.
-
-I enjoy transforming ideas into modern digital products with clean UI/UX and efficient backend systems.
-
-###  Currently Focused On
-- Full-Stack Web Development
-- Next.js Ecosystem
-- REST API Architecture
-- Firebase Real-Time Systems
-- Backend Engineering
-- Android App Development
+<a href="https://github.com/rksaykot999"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:rksaikatkhan999@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://rksaykot999.github.io/RK-Saykot-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=flat-square&logo=vercel&logoColor=white"/></a>
 
 </td>
-
-<td width="40%">
-
-<img src="https://avatars.githubusercontent.com/u/180281030?v=4"/>
-
-</td>
-
 </tr>
 </table>
 
 ---
 
+## Tech Stack
+
 <div align="center">
 
-#  TECH STACK
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap&theme=dark"/>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap,nodejs,express,php,firebase,mysql,git,github,postman,vercel,netlify,java,kotlin,androidstudio&theme=dark&perline=11" />
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,firebase,mysql&theme=dark"/>
+
+<br/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman&theme=dark"/>
+
+<br/>
+
+**Mobile Development**
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio&theme=dark"/>
 
 </div>
 
 ---
 
-#  PROFESSIONAL EXPERIENCE
-
-<br/>
-
-##  Junior Developer — Qadr Foundation
-
-> Worked on a production-level **Next.js + TypeScript** platform solving real-world frontend and responsive UI problems.
-
-###  Contributions
-- Solved responsive UI challenges
-- Fixed production-level bugs
-- Optimized layouts and structures
-- Improved reusable component systems
-- Enhanced user experience across devices
-
----
-
-<div align="center">
-
-#  FEATURED PROJECTS
-
-###  REAL-WORLD PRODUCTION APPLICATIONS
-
-</div>
-
-<br/>
+## Professional Experience
 
 <table>
-
 <tr>
+<td>
 
-<td width="33%">
+**Junior Developer — Qadr Foundation** &nbsp; <a href="https://qadr.foundation"><img src="https://img.shields.io/badge/Visit%20Site-qadr.foundation-0ea5e9?style=flat-square"/></a>
 
-##  Qadr Foundation
+Contributed to a production-level **Next.js + TypeScript** platform, solving real-world frontend and responsive UI challenges.
 
-<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
-
-###  Modern Islamic Platform
-
-```txt
-Production-Level Frontend
-Responsive UI/UX
-Reusable Components
-```
-
-🔗 https://qadr.foundation
+| Area | Contribution |
+|---|---|
+| **Responsive UI** | Solved complex layout issues across all screen sizes and breakpoints |
+| **Bug Fixes** | Identified and resolved production-level bugs under real deadlines |
+| **Layout Optimization** | Improved page structure, spacing, and rendering performance |
+| **Component Systems** | Built and refined reusable, scalable UI components |
+| **User Experience** | Enhanced consistency and accessibility across all devices |
 
 </td>
-
-<td width="33%">
-
-##  Banglar Bagh
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-
-###  Donation Platform
-
-```txt
-Admin Dashboard
-Donation Workflow
-Dynamic Database
-```
-
-🔗 https://banglarbagh.org
-
-</td>
-
-<td width="33%">
-
-##  People E-Sheba
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
-<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase"/>
-
-###  Public Service Platform
-
-```txt
-Authentication System
-REST API
-Realtime Database
-```
-
-🔗 https://people-esheba.vercel.app
-
-</td>
-
 </tr>
-
-<tr>
-
-<td width="33%">
-
-##  Qadr Media
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
-
-###  Corporate Platform
-
-```txt
-Modern UI/UX
-Reusable Components
-Responsive Design
-```
-
-🔗 https://qadrmcl.com
-
-</td>
-
-<td width="33%">
-
-##  Seat Management
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-
-###  Smart Allocation System
-
-```txt
-Seat Allocation
-Conflict Detection
-PDF Export
-```
-
-🔗 http://seat-management.is-great.org/
-
-</td>
-
-<td width="33%">
-
-##  Student Management
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss"/>
-
-
-###  Educational Platform
-
-```txt
-CRUD Operations
-Authentication
-Database Workflow
-```
-
-🔗 https://student-managemant-system.free.nf/
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%">
-
-##  Queue Management
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-
-###  Healthcare Queue System
-
-```txt
-Queue Automation
-Admin Dashboard
-Realtime Workflow
-```
-
-🔗 https://queue-management-system.free.nf/
-
-</td>
-
-<td width="33%">
-
-##  GRK Portfolio
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
-
-###  Agency Portfolio
-
-```txt
-Modern Design
-Responsive Layout
-Project Showcase
-```
-
-🔗 https://team-grk.vercel.app/
-
-</td>
-
-<td width="33%">
-
-##  Currently Building
-
-<img src="https://img.shields.io/badge/Building-New%20Projects-38BDF8?style=for-the-badge"/>
-
-###  Future Projects
-
-```txt
-AI Applications
-Mobile Apps
-SaaS Platforms
-```
-
-🚀 Always Building
-
-</td>
-
-</tr>
-
 </table>
 
 ---
 
-#  CURRENT FOCUS
-
-<br/>
+## Featured Projects
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Currently+Focused+on+Modern+Full-Stack+Development;Learning+and+Building+with+Next.js;Improving+Backend+Architecture+Skills;Building+Scalable+Production-Ready+Applications" />
+<img src="https://img.shields.io/badge/Real--World-Production%20Applications-0ea5e9?style=for-the-badge&labelColor=0f172a"/>
 
 </div>
 
 <br/>
 
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Qadr Foundation**
+
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
+
+Modern Islamic Platform with production-level frontend architecture, responsive UI/UX, and reusable component systems.
+
+<a href="https://qadr.foundation"><img src="https://img.shields.io/badge/Live%20Site-qadr.foundation-0ea5e9?style=flat-square&logo=vercel"/></a>
+
+</td>
+<td width="33%" valign="top">
+
+**Banglar Bagh**
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql"/>
+
+Donation management platform with admin dashboard, donation workflow engine, and dynamic database integration.
+
+<a href="https://banglarbagh.org"><img src="https://img.shields.io/badge/Live%20Site-banglarbagh.org-0ea5e9?style=flat-square&logo=vercel"/></a>
+
+</td>
+<td width="33%" valign="top">
+
+**People E-Sheba**
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+
+Public service platform with full authentication, REST API architecture, and realtime Firebase database.
+
+<a href="https://people-esheba.vercel.app"><img src="https://img.shields.io/badge/Live%20Site-people--esheba-0ea5e9?style=flat-square&logo=vercel"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**Qadr Media**
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs"/>
+
+Corporate web platform with modern UI/UX design, scalable component architecture, and full responsiveness.
+
+<a href="https://qadrmcl.com"><img src="https://img.shields.io/badge/Live%20Site-qadrmcl.com-0ea5e9?style=flat-square&logo=vercel"/></a>
+
+</td>
+<td width="33%" valign="top">
+
+**Seat Management System**
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql"/>
+
+Smart seat allocation system with automated conflict detection and PDF export for institutional use.
+
+<a href="http://seat-management.is-great.org/"><img src="https://img.shields.io/badge/Live%20Site-seat--management-0ea5e9?style=flat-square&logo=vercel"/></a>
+
+</td>
+<td width="33%" valign="top">
+
+**Queue Management System**
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql"/>
+
+Healthcare queue automation system with admin dashboard and realtime patient workflow management.
+
+<a href="https://queue-management-system.free.nf/"><img src="https://img.shields.io/badge/Live%20Site-queue--system-0ea5e9?style=flat-square&logo=vercel"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**Student Management System**
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=black"/>
+
+Full-stack educational platform with complete CRUD operations, secure authentication, and database workflow.
+
+<a href="https://student-managemant-system.free.nf/"><img src="https://img.shields.io/badge/Live%20Site-student--system-0ea5e9?style=flat-square&logo=vercel"/></a>
+
+</td>
+<td width="33%" valign="top">
+
+**GRK Agency Portfolio**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+Agency portfolio website with modern design language, responsive layout, and professional project showcase.
+
+<a href="https://team-grk.vercel.app/"><img src="https://img.shields.io/badge/Live%20Site-team--grk-0ea5e9?style=flat-square&logo=vercel"/></a>
+
+</td>
+<td width="33%" valign="top">
+
+**Currently Building**
+
+<img src="https://img.shields.io/badge/Status-In%20Progress-38bdf8?style=flat-square"/>
+
+Actively working on new projects including AI-integrated web applications, Android mobile apps, and SaaS platforms.
+
+<img src="https://img.shields.io/badge/Next-AI%20%7C%20Mobile%20%7C%20SaaS-0f172a?style=flat-square"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Stats
+
 <div align="center">
 
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rksaykot999&theme=tokyonight&hide_border=true&background=0f172a&stroke=0ea5e9&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8&sideLabels=e2e8f0&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
+
+<br/>
+
+
+</div>
+
+---
+
+## Current Focus
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Mastering+Next.js+%26+Full-Stack+Development;Building+Scalable+Production-Ready+Applications;Strengthening+REST+API+%26+Backend+Architecture;Exploring+AI+Integration+in+Web+Applications" alt="Focus"/>
+
+</div>
+
+<br/>
+
 <table>
-
 <tr>
+<td width="50%" valign="top" align="center">
 
-<td width="50%">
-
-#  Frontend
+**Frontend**
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,vite&theme=dark"/>
 
 <br/>
 
-| Current Frontend Focus |
-|---|
-| Next.js Ecosystem |
-| Advanced React Patterns |
-| Responsive UI Systems |
-| Tailwind CSS Architecture |
-| Performance Optimization |
-| Reusable Component Design |
-| Clean UI/UX Development |
+| Area | Focus |
+|---|---|
+| Framework | Next.js App Router & Server Components |
+| Patterns | Advanced React Architecture |
+| Styling | Tailwind CSS Design Systems |
+| Performance | Core Web Vitals & Optimization |
+| Components | Scalable & Reusable UI Systems |
 
 </td>
+<td width="50%" valign="top" align="center">
 
-<td width="50%">
-
-#  Backend
+**Backend**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,php&theme=dark"/>
 
 <br/>
 
-| Current Backend Focus |
-|---|
-| REST API Development |
-| Authentication Systems |
-| Firebase Integration |
-| Database Architecture |
-| Scalable Backend Logic |
-| Full-Stack Workflows |
-| Production-Level Systems |
+| Area | Focus |
+|---|---|
+| APIs | REST API Design & Development |
+| Auth | JWT, Sessions & OAuth Systems |
+| Database | Schema Design & Query Optimization |
+| Realtime | Firebase & WebSocket Integration |
+| Systems | Production-Grade Backend Logic |
 
 </td>
-
 </tr>
-
 </table>
 
-</div>
-
 <br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CURRENTLY%20LEARNING-Next.js-000?style=for-the-badge&logo=nextdotjs"/>
-
-<img src="https://img.shields.io/badge/BUILDING-Full--Stack%20Applications-38BDF8?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/GOAL-Remote%20Software%20Engineer-0ea5e9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LEARNING-Next.js%20%26%20TypeScript-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/BUILDING-Full--Stack%20Applications-0ea5e9?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/GOAL-Remote%20Software%20Engineer-38bdf8?style=for-the-badge"/>
 
 </div>
 
 ---
 
-#  CONNECT WITH ME
-
-<br/>
+## Connect With Me
 
 <div align="center">
+
+<br/>
 
 <a href="https://github.com/rksaykot999">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-rksaykot999-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="mailto:rksaikatkhan999@gmail.com">
-<img src="https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+&nbsp;&nbsp;
 
 <a href="https://rksaykot999.github.io/RK-Saykot-Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-RK%20Saykot-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
+
+Open to collaboration, freelance projects, industrial attachment, and remote software engineering opportunities.
+
+<br/>
 
 ---
 
-<div align="center">
-
-#  BUILDING MODERN DIGITAL EXPERIENCES
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:020617,20:0f172a,45:1e293b,70:0ea5e9,100:38bdf8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,30:0f172a,60:0ea5e9,100:38bdf8"/>
 
 </div>
