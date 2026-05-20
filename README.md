@@ -25,7 +25,7 @@ I enjoy transforming ideas into modern digital products with clean UI/UX and eff
 
 <br/>
 
-<img src="https://img.shields.io/badge/Location-Faridpur%2C%20Bangladesh-0ea5e9?style=flat-square&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-0ea5e9?style=flat-square&logo=googlemaps&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Role-Full--Stack%20Web%20Developer-38bdf8?style=flat-square&logo=code&logoColor=white"/>
 
@@ -90,10 +90,6 @@ I enjoy transforming ideas into modern digital products with clean UI/UX and eff
 <tr>
 <td>
 
-**Junior Developer — Qadr Foundation** &nbsp; <a href="https://qadr.foundation"><img src="https://img.shields.io/badge/Visit%20Site-qadr.foundation-0ea5e9?style=flat-square"/></a>
-
-Contributed to a production-level **Next.js + TypeScript** platform, solving real-world frontend and responsive UI challenges.
-
 | Area | Contribution |
 |---|---|
 | **Responsive UI** | Solved complex layout issues across all screen sizes and breakpoints |
@@ -120,19 +116,7 @@ Contributed to a production-level **Next.js + TypeScript** platform, solving rea
 
 <table>
 <tr>
-<td width="33%" valign="top">
-
-**Qadr Foundation**
-
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
-
-Modern Islamic Platform with production-level frontend architecture, responsive UI/UX, and reusable component systems.
-
-<a href="https://qadr.foundation"><img src="https://img.shields.io/badge/Live%20Site-qadr.foundation-0ea5e9?style=flat-square&logo=vercel"/></a>
-
-</td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 **Banglar Bagh**
 
@@ -144,7 +128,7 @@ Donation management platform with admin dashboard, donation workflow engine, and
 <a href="https://banglarbagh.org"><img src="https://img.shields.io/badge/Live%20Site-banglarbagh.org-0ea5e9?style=flat-square&logo=vercel"/></a>
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 **People E-Sheba**
 
